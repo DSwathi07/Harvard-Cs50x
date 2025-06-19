@@ -45,7 +45,7 @@ CS50x, taught by David J. Malan, covers C, Python, SQL, JavaScript, CSS, HTML, a
 1. **Scratch**: Game/animation. [View](labs/scratch)
 
 ## Final Project
-- **Title**: [Your Project Title]
+- **Title**: Kids Learning App
 - **Description**: [Brief description]
 - **Video Demo**: [Your YouTube URL]
 - **Details**: [final_project/](final_project)
