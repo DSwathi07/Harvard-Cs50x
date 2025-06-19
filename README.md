@@ -2,7 +2,7 @@
 Solutions to Harvard CS50x 2025 problem sets, labs, and final project.
 # Harvard CS50x 2025
 
-Welcome to my repository for [Harvard CS50x 2025](https://cs50.harvard.edu/x/2025/). This showcases my solutions to problem sets, labs, and final project. I earned a certificate: [View Certificate](https://cs50.harvard.edu/certificates/YOUR_CERTIFICATE_ID).
+Welcome to my repository for [Harvard CS50x 2025](https://cs50.harvard.edu/x/2025/). This showcases my solutions to problem sets, labs, and final project. I earned a certificate: [View Certificate](https://cs50.harvard.edu/certificates/3d0854cd-e48c-460a-bced-d1a3ec230ebc).
 
 ## About CS50x
 CS50x, taught by David J. Malan, covers C, Python, SQL, JavaScript, CSS, HTML, algorithms, data structures, and web development.
