@@ -56,3 +56,6 @@ Please respect CS50’s [Academic Honesty policy](https://cs50.harvard.edu/x/202
 ## Contact
 - GitHub: [DSwathi07](https://github.com/DSwathi07)
 - Email: swathidronadula1234@gmail.com
+
+
+![image](https://github.com/user-attachments/assets/f5132d18-82b9-419d-93ef-4a123ac3a1c5)
