@@ -48,7 +48,7 @@ CS50x, taught by David J. Malan, covers C, Python, SQL, JavaScript, CSS, HTML, a
 - **Title**: Kids Learning App
 - **Description**: Kids Learning App is an interactive educational app designed to help young children learn alphabets, numbers, colors, and shapes in a fun and engaging way. Built as part of my CS50 final project, the app features simple navigation, colorful visuals, and playful quizzes to make learning enjoyable for kids.
 - **Video Demo**: https://youtu.be/3HuaCruxULc
-- **Details**: [final_project/](final_project)
+- **Details**: final_project - https://github.com/DSwathi07/kids-learning
 
 ## Academic Honesty
 Please respect CS50’s [Academic Honesty policy](https://cs50.harvard.edu/x/2025/honesty/).
